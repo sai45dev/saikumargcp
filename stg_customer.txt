@@ -1,2 +1,2 @@
-create table stg_customer(
+create table stg_customer_new(
 )
